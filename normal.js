@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         新浪微博一键清关注
 // @namespace    http://tampermonkey.net/
-// @version      2.34
+// @version      2.35
 // @description  清空微博所有关注
 // @author       Waki_Ji&crane-yuan
 // @match        https://*.weibo.com/*/follow*
